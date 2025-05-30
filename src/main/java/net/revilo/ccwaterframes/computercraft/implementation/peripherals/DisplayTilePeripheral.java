@@ -1,4 +1,4 @@
-package de.meowlan.ccshenanigans.computercraft.implementation.peripherals;
+package net.revilo.ccwaterframes.computercraft.implementation.peripherals;
 
 import java.net.URI;
 import java.net.URISyntaxException;
